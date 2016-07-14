@@ -1,1 +1,1 @@
-//Javascript Entry Point//
+//special Javascript Entry Point//
